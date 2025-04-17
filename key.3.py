@@ -20,7 +20,7 @@ def display_challenge():
 
     USERNAME          → root
     PASSWORD (HASHED) → aeb4af8051636122485358d10b021a6ebd78072a
-    LINK (ENCRYPTED)  → aHR0cHM6Ly9yb290LWh1bnRlcnMudXAucmFpbHdheS5hcHAv
+    LINK (ENCRYPTED)  → aHR0cHM6Ly9yb290LWh1bnRlcnMudXAucmFpbHdheS5hcHAvd2VsY29tZQ
 
     🚨 MISSION: Decrypt the hashed password and decode the encrypted link to gain access.
                Only the worthy will claim their spot.
