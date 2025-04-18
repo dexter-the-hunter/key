@@ -19,7 +19,7 @@ def display_challenge():
     🔐 LOGIN USING THE BELOW CREDENTIALS TO UNLOCK THE TEAM INVITE LINK 🔐
 
     USERNAME          → root
-    PASSWORD (HASHED) → aeb4af8051636122485358d10b021a6ebd78072a
+    PASSWORD (HASHED) → b0112a5051a76fe4c9326ac80ac97b906ed42cb6e95cc498e8b96b75460ad00c
     LINK (ENCRYPTED)  → aHR0cHM6Ly9yb290LWh1bnRlcnMudXAucmFpbHdheS5hcHAvd2VsY29tZQ
 
     🚨 MISSION: Decrypt the hashed password and decode the encrypted link to gain access.
